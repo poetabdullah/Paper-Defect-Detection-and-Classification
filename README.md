@@ -11,6 +11,7 @@ If you want to have a detailed understanding of this project, you can refer to t
 - **Feature Extraction and Data Preprocessing in Computer Vision**: https://medium.com/@abdullahimranarshad/feature-extraction-and-data-preprocessing-in-computer-vision-53066a812a96
 
 ## Workflow Summary
+- See the **master** branch for project's source code and detailed report.
 
 ### Data Exploration
 
