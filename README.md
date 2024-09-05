@@ -5,10 +5,10 @@
 This project focuses on automating defect localization in industrial quality control using advanced feature extraction and machine learning techniques. It explores methods such as Histogram of Oriented Gradients (HOG), Gabor filters, Canny edge detection, and Wavelet Transform combined with Support Vector Machines (SVMs), Convolutional Neural Networks (CNNs), and ensemble learning to enhance defect detection accuracy.
 
 ## Articles
-If you want to have a detailed understanding of this project, you can refer to to the following articles:
-- Defect Detection in Papers & Model Comparison: https://medium.com/@abdullahimranarshad/defect-detection-in-papers-model-comparison-a0a44a4bafa6
+If you want to have a detailed understanding of this project, you can refer to to the following articles on **Medium**:
+- **Defect Detection in Papers & Model Comparison**: https://medium.com/@abdullahimranarshad/defect-detection-in-papers-model-comparison-a0a44a4bafa6
   
-- Feature Extraction and Data Preprocessing in Computer Vision: https://medium.com/@abdullahimranarshad/feature-extraction-and-data-preprocessing-in-computer-vision-53066a812a96
+- **Feature Extraction and Data Preprocessing in Computer Vision**: https://medium.com/@abdullahimranarshad/feature-extraction-and-data-preprocessing-in-computer-vision-53066a812a96
 
 ## Workflow Summary
 
