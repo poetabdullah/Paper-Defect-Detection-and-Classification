@@ -43,6 +43,8 @@ If you want to have a detailed understanding of this project, you can refer to t
 - **Convolutional Neural Networks (CNNs):** Despite efforts, achieved only 38% test accuracy, indicating need for improvement.
 - **Combined Models:** Achieved 90% train and 81% test accuracy by combining SVM, logistic regression, and Naive Bayes.
 
+Refer to this link to get the models: https://huggingface.co/AbdullahImran/Paper-Defect-Detection
+
 ### Defect Localization
 
 - **Visualization:** Used trained models to visualize defects on paper samples.
