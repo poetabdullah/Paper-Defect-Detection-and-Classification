@@ -55,20 +55,6 @@ Here’s how the workflow was structured:
 
 ---
 
-## 📂 Repository Structure
-
-```
-📦 Paper-Defect-Detection
-┣ 📜 README.md
-┣ 📜 requirements.txt
-┣ 📂 notebooks        # EDA, feature extraction, model training
-┣ 📂 models           # Trained ML models & Hugging Face links
-┣ 📂 data             # Sample datasets
-┗ 📂 visualization    # Defect visualization outputs
-```
-
----
-
 ## 🧰 Tech Stack
 
 * **Languages & Libraries**: Python (NumPy, Pandas, Scikit-learn, TensorFlow/Keras)
