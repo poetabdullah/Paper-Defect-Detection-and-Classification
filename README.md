@@ -91,5 +91,3 @@ Feel free to fork, experiment, and share results.
 🔥 With this pipeline, **industrial paper defect detection becomes faster, more accurate, and more explainable.**
 
 ---
-
-Do you want me to also **design a visual architecture diagram** (like feature extraction → PCA → models → results) so it looks even more polished for GitHub?
