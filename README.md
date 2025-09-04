@@ -5,6 +5,7 @@
 This project automates **defect localization in paper manufacturing** by combining **classical feature extraction** with **modern machine learning models**. It demonstrates how techniques like **HOG, Gabor filters, Canny edge detection, and Wavelet transforms**, when paired with models like **SVMs, Logistic Regression, and CNNs**, can transform defect detection in industrial pipelines.
 
 🔗 **Pre-trained Models**: [Hugging Face Repository](https://huggingface.co/AbdullahImran/Paper-Defect-Detection)
+<br/>
 📝 **Articles**:
 
 * [Defect Detection in Papers & Model Comparison](https://medium.com/@abdullahimranarshad/defect-detection-in-papers-model-comparison-a0a44a4bafa6)
